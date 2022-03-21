@@ -13,7 +13,7 @@ Download and open in browser
 ##### 5. Updating the model and retraining with optimum topics
 [Final model with 4 topics](https://github.com/msna121/Text_classification/blob/master/lda_4topics.html)
 Download and open in browser
-##### 6. Saving the model
+##### 6. Saving the nlp pipeline with the model and vectorizer
 
 # Files:
 1. [Input_data](https://github.com/msna121/Text_classification/blob/master/User_Reviews.csv)
