@@ -7,6 +7,6 @@ The input data contains user reviews for different products without any labels. 
 ##### 2. Preprocessing the data
 ##### 3. Model selection and building the model
 ##### 4. Selecting optimum number of topics using elbow method
-(https://github.com/msna121/Text_classification/blob/master/Elbow_method.png)
+![image](https://github.com/msna121/Text_classification/blob/master/Elbow_method.png)
 ##### 5. Updating the model and retraining with optimum topics
 ##### 6. Saving the model
